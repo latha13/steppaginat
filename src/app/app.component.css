@@ -1,0 +1,124 @@
+
+  pagination-controls /deep/ .ngx-pagination .current {
+    color: white;
+    background-color:black;
+    cursor: default;
+    outline-color: white;   
+    
+}
+
+
+
+  
+  
+  /*pagination-controls /deep/  .ngx-pagination a {
+       display: block;
+    padding: 0.1875rem 0.625rem;
+    padding-left: 20px;;
+    border-radius: 0;
+    background-color: green;
+    background-clip: content-box;
+    outline-color: white;
+    
+}
+*/
+
+/* for scroll bar
+.fixed_header,td
+{
+    margin: 10px 0;
+    text-align:center;
+    padding: 2px 4px;
+    font: 15px Verdana;
+    background-color: black;
+}
+.fixed_header{
+    width: 400px;
+    
+     }
+th {
+    margin: 0px 0;
+    background-color: #424242;
+    font-weight:bold;
+    color: green;
+}
+tr {
+    color: white;
+}
+tbody div tr td{
+    padding:10px 30px;
+}
+tbody div{
+    overflow-y:scroll;
+    width: 400px;
+    height:300px;
+}
+*/
+table,td
+{
+    margin: 10px 0;
+    text-align:center;
+    padding: 2px 4px;
+    font: 15px Verdana;
+    background-color: black;
+
+}
+
+table{
+    width: 400px;
+     }
+th {
+    margin: 0px 0;
+    background-color: #424242;
+    font-weight:bold;
+    color: green;
+}
+tr {
+    color: white;
+
+}
+
+  pagination-controls /deep/ .ngx-pagination li{
+    width: 2em;
+    height: 2em;
+    text-align: center;
+     border-radius: 1em;
+    background:green;
+    margin: 0 1em;
+   position: relative;
+   outline-color: white;  
+   color:white; 
+  }
+
+ 
+pagination-controls /deep/ .ngx-pagination li::before
+{    content: '';
+    position: absolute;
+    top: .9em;
+    left: -4em;
+    width: 4em;
+    height: .2em;
+    background-color: black;
+    outline-color: white;   
+    color:white; 
+  }
+  .active ~ pagination-controls /deep/ .ngx-pagination li {
+    background: lightblue;
+  }
+ 
+  pagination-controls /deep/ .ngx-pagination li:first-of-type::before {
+  display: none;
+  }
+pagination-controls /deep/ .ngx-pagination .current {
+    width: 2em;
+  height: 2em;
+  text-align: center;
+   border-radius: 1em;
+  background:green;
+  margin: 0 1em;
+  position: relative;
+  outline-color: white; 
+  color:white; 
+}
+pagination-controls /deep/ .ngx-pagination a:hover{background:none;color:inherit}
+

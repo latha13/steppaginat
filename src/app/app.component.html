@@ -1,0 +1,29 @@
+<div style="text-align:center">
+    <h1>
+      Welcome to {{ title }}!
+    </h1>
+    <div style="text-align:left;width:500px;">
+      <h1>
+          {{ tableheading }}
+          </h1>
+  <br>
+      <table *ngIf="arrdevice">
+          <!-- ADD HEADERS -->
+          <tr>
+              <th>Device Id</th>
+                  <th>Timestamp</th>
+                      <th>Moisture Value</th>
+          </tr>
+  
+          <!-- BIND ARRAY TO TABLE -->
+          <tr *ngFor="let d of arrdevice | paginate: { itemsPerPage: 10, currentPage: p }">
+              <td>{{d.DeviceID}}</td>
+                  <td>{{d.Timestamp}}</td>
+                      <td>{{d.moisturevalue}}</td>
+          </tr>
+      </table>
+      <pagination-controls (pageChange)="p = $event" directionLinks="false"></pagination-controls>
+
+  </div>  
+  
+    

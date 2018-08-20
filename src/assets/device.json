@@ -1,0 +1,313 @@
+[{
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "16.8"
+   },
+ {
+    "DeviceID": "002",
+   "Timestamp": "56.0089",
+    "moisturevalue": "19.8"
+   },
+   {
+    "DeviceID": "003",
+   "Timestamp": "7.0089",
+    "moisturevalue": "156.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "16.8"
+   },
+ {
+    "DeviceID": "002",
+   "Timestamp": "56.0089",
+    "moisturevalue": "19.8"
+   },
+   {
+    "DeviceID": "003",
+   "Timestamp": "7.0089",
+    "moisturevalue": "156.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "16.8"
+   },
+ {
+    "DeviceID": "002",
+   "Timestamp": "56.0089",
+    "moisturevalue": "19.8"
+   },
+   {
+    "DeviceID": "003",
+   "Timestamp": "7.0089",
+    "moisturevalue": "156.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+ {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   },
+   {
+    "DeviceID": "001",
+   "Timestamp": "9.0089",
+    "moisturevalue": "10.8"
+   }
+
+
+]
